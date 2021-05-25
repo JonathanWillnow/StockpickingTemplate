@@ -1,0 +1,16 @@
+name: YourStockpickingTemplate
+
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
+- requests
+- xlsxwriter
+- math
+- pip
+- pip:
+
